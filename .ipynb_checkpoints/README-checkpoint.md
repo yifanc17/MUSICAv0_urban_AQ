@@ -7,6 +7,7 @@ This repository is supplementary to the manuscript “The impact of urban land s
 Scripts for generating the main text figures are provided below:
 
 | Plot     | Title   |
+| -------- | ------- |
 | [Figure1](https://github.com/yifanc17/MUSICAv0_urban_AQ/blob/master/JGR_Figure1_model_obs_setup.ipynb) | Model config and observation info |
 | [Figure2](https://github.com/yifanc17/MUSICAv0_urban_AQ/blob/master/JGR_Figure2_Thailand_ground_val.ipynb)  |  Thailand ground obs validation |
 | [Figure3](https://github.com/yifanc17/MUSICAv0_urban_AQ/blob/master/JGR_Figure3_DC8_flight_val.ipynb) | NASA DC8 flight validation |
